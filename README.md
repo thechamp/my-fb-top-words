@@ -11,7 +11,10 @@ To be able to do this, you need FB access token whcih has permission to read you
 4. Copy access_token from Graph Explorer and replace in the PHP file
 
 
-After you do this, execute script
+After you do this, execute following command to run the script
+
+```
 php word_fetch.php
+```
 
 That should print the list of top 20 words.
