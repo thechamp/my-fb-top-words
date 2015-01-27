@@ -8,7 +8,7 @@
        */
 
     // Our variables
-    $access_token = 'CAACEdEose0cBADc2MrgIDqqvGiyKZAm6vNRJcbttaKhKzKwrWZBKZC6EjCfgp3qzlvkyCbZATosQZCqJWZAHnqRUxMlg75iEVvZBXQQrxWJoTmCELGQyIbcp37hOYdh9ZApZB5uCMg4p3N4QRIX8ZBvSudYmPREmGSCrMZBpR66A5xJ4uEtK4CBfYv7CJL4anfx6aGcMVl0UmgMMHZCbGzRZBQWfpaYXJ485Uk5kZD'; //'paste_access_token_here';
+    $access_token = 'paste_access_token_here';
     $top_words_count = 20;
 
     // These words will be discarded
