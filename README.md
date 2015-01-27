@@ -4,6 +4,7 @@ Get the list of your most used 20 words in Facebook statuses.
 This PHP file fetches top 20 words from your last 100 FB status updates.
 
 To be able to do this, you need FB access token whcih has permission to read your status updates. You can do this by following steps:
+
 1. Hit URl : https://developers.facebook.com/tools/explorer/?method=GET&path=me%2Fstatuses&version=v2.2&
 2. click on "Get Access Token" button
 3. Add "user_status" permission in pop-up (IMPORTANT)
